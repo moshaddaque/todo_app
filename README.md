@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 <h3>Screenshots</h3>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/wv9Ckknb/task-add-dialog.png" alt="task-add-dialog"height="300"/></a> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/bvfcZPgP/task-list.png" alt="task-list"height="300"/></a> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/6QVsRPbv/2-task-done.png" alt="2-task-done"height="300"/></a> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/cLnG1CQT/tsk-details-page.png" alt="tsk-details-page"height="300"/></a><br/><br/>
+<img src="https://i.postimg.cc/wv9Ckknb/task-add-dialog.png" alt="task-add-dialog"height="300"/> <img src="https://i.postimg.cc/bvfcZPgP/task-list.png" alt="task-list"height="300"/><img src="https://i.postimg.cc/6QVsRPbv/2-task-done.png" alt="2-task-done"height="300"/> <img src="https://i.postimg.cc/cLnG1CQT/tsk-details-page.png" alt="tsk-details-page"height="300"/><br/><br/>
 
 A few resources to get you started if this is your first Flutter project:
 
